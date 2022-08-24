@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Ahuigo 的笔记</title>
+<link href="https://ahuigo.github.io/b/atom.xml" rel="self" type="application/atom+xml"/>
+<updated>2022-08-19T21:25:19Z</updated>
+<subtitle>Ahuigo's notes</subtitle>
+<entry xml:base="https://ahuigo.github.io">
+<title>vim-motion</title>
+<link href="/b/vim/vim-motion" rel="alternate" type="text/html"/>
+<updated>2021-04-02T00:00:00Z</updated>
+<summary/>
+<published>2021-04-02T00:00:00Z</published>
+<content># Motion, Movement
+Movement 移动光标、字符，Vim 最核心的功能操作
+
+vim 下的光标移动
+
+    按字符移动 hjkl
+    按单词移动 
+        小单词:</content>
+</entry><entry xml:base="https://ahuigo.github.io">
+<title>py-debug</title>
+<link href="/b/py/py-debug" rel="alternate" type="text/html"/>
+<updated>2021-03-30T00:00:00Z</updated>
+<summary/>
+<published>2018-09-28T00:00:00Z</published>
+<content># Preface
+1. exception
+2. 调试包括print, assert, 
+3. 使用logging/sentry/q(强烈推荐)
+4. pdb/ipdb
+3. perf 性能
+1. </content>
+</entry></feed>
