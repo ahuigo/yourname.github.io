@@ -5,10 +5,7 @@
 - 示例地址：[https://ahuigo.github.io/?p=f~readme](https://ahuigo.github.io/?p=f~readme)
 
 ## 支持的功能
-- [x] Markdown 
-    - [x] Latex 
-    - [x] TOC目录(Table of Content) 
-    - [x] TOC滚动
+- [x] Markdown + Latex + TOC目录(Table of Content) + TOC滚动
 - [x] 多级动态目录: 适合*海量*笔记按**目录**归纳整理、总结
   - [x] 目录缓存(缓存时间1天)
 - [x] Disqus
